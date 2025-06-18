@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tesedenya
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Junior Web Development 
+- 🌱 I’m currently learning Junior Web Development and Java programing 
 - 💞️ I’m looking to collaborate on Web Development projects  
 - 📫 you can reach me through MelakuTsedenya@gmail.com
 
